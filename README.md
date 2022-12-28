@@ -6,7 +6,10 @@ This project is created using chatGPT and hosted over Cloudflare workers.
 This project is hosted over :  
 
 https://ukstrikecalendar.himanshuanand.com/
+
 https://ukstrikecalendar.himanshuanand.workers.dev/
+
+<img width="945" alt="Screenshot 2022-12-28 at 13 55 34" src="https://user-images.githubusercontent.com/441098/209822807-dcfb8e8d-474c-4e36-9679-9afbfb7ce088.png">
 
 The project does not use any database or any kind of configuration; it is purely hosted on Cloudflare Workers (Free tier serverless) which means absolutely no management. (\m/)
 
